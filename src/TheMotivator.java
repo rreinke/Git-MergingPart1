@@ -12,8 +12,8 @@ public class TheMotivator {
 	}
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
-		tm.feedback(60);
+		tm.feedback(97);
 		TheInsultor ti = new TheInsultor();
-		ti.feedback(67);
+		ti.feedback(40);
 	}
 }
