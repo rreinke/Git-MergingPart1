@@ -1,7 +1,7 @@
 
 public class TheInsultor {
 	public void feedback(int score) {
-		if (score == 100)
+		if (score == 98)
 			System.out.println("You obviously need to challenge yourself with a harder class.");
 		else if (score > 90)
 			System.out.println("Were you asleep during the exam?");
